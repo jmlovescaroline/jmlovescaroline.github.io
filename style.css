@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+h1 {
+	text-align: center;
+	color: hotpink;
+	border: 6px lightpink;
+	border-style: solid;
+	border-radius: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+a:link, a:visited, a:hover, a:active  {
+	text-decoration: none;
+	color: hotpink;
+}
+
+body {
+	font-family: 'Comfortaa';
+	background-color: #FFFDD0;
+}
+video {
+	text-align: center;
+
+}

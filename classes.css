@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+.sorry {
+	display: inline-block;
+	font-family: 'Comfortaa';
+	border: 6px lightpink;
+	border-style: solid;
+	border-radius: 10px;
+	padding: 25px;
+}
+
+.returnLink {
+	display: inline-block;
+	text-align: center;
+	font-family: 'Comfortaa';
+	padding: 10px;
+}
+
+.secretI {
+	text-align: center;
+}
+
+.secretI pre {
+  display: inline-block;
+  text-align: left;
+ }
+
+.imgContainer{
+	position: relative;
+}
+
+.pepperImage{
+ 	width: 640px;
+ 	height: 480px;
+ 	border: 6px lightpink;
+	border-style: solid;
+	border-radius: 10px;
+	position: relative;
+	left: 750px;
+	bottom: 255px;
+ }
+
+.pepperButton{
+	position: relative;
+	left: 750px;
+	bottom: 255px;
+ }
