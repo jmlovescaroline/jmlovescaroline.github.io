@@ -12,6 +12,6 @@ function getRandomPepper(){
 	
 	selectedPepper = pepperArray[randomNumber]
 
-	document.getElementById('pepperShower').src = '/imagesA/${selectedPepper}'
+	document.getElementById('pepperShower').src = 'imagesA/${selectedPepper}'
 
 }
